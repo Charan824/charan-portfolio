@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../chara/PORTFOLIO"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-personal-gh-pages"
+	}
+}
